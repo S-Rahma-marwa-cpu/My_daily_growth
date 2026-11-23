@@ -1,0 +1,9 @@
+target/
+*.class
+habit_tracker.db
+habit_tracker.db-shm
+habit_tracker.db-wal
+.idea/
+.project
+.classpath
+.settings/
